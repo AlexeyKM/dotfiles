@@ -1,0 +1,15 @@
+# Shortcuts
+alias ll="ls -la"
+alias gs="git status"
+alias gp="git push"
+alias gc="git commit"
+alias gd="git diff"
+alias glog="git log --oneline --graph"
+
+# Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+
+# System
+alias reload="source ~/.zshrc"
+alias cls="clear"

@@ -1,0 +1,13 @@
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --decorate
+
+[core]
+    editor = vim
+    autocrlf = input
+
+[pull]
+    rebase = true
